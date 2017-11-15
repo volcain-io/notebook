@@ -8,7 +8,7 @@ Index of contents:
 
 ## JavaScript
 
-    * Defaults (parameters) and destructing arrays
+* Defaults (parameters) and destructing arrays
     ```javascript
     function createGrid([width = 5, height = 5] = []) {
         return `Generates a ${width} x ${height} grid`;
@@ -20,7 +20,7 @@ Index of contents:
     createGrid([undefined,3]); // Generates a 5 x 3 grid
     ```
 
-    * Defaults (parameters) and destructing objects
+* Defaults (parameters) and destructing objects
     Just like array destructing with array defaults, a function can have an object
     be a default parameter and use object destructing.
     ```javascript
@@ -35,9 +35,12 @@ Index of contents:
     createSundae({toppings: ['Cookie Dough']}); // Your sundae has 1 scoop with Cookie Dough toppings.
     ```
 
-    * Create & fill a two dimensional array (e.g. 3x3)
+* Create & fill a two dimensional array (e.g. 3x2)
     ```javascript
     const ROWS = 3;
-    const COLS = 3;
-    Array(ROWS).fill().map(() => Array(COLS).fill(false));
+    const COLS = 2;
+    Array(ROWS).fill().map(_ => Array(COLS).fill(false));
+    // 0: [false, false]
+    // 1: [false, false]
+    // 2: [false, false]
     ```
