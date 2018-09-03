@@ -21,6 +21,10 @@ Index of contents:
     > *überlassen.*
     > You learn how detect and prevent common pitfalls and use them to your own advantage.
 
+* **The Alchemist** by Paulo Coelho
+    > *Original: Der Alchimist.*
+    > A small & very nice to read story about life lessons and following our dreams.
+
 ## English
 
 * **Daily Rituals: How Artists Work** by Mason Currey
