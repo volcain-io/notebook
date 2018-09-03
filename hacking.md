@@ -1,5 +1,5 @@
 
-gs on Computer Security:
+Blogs on Computer Security:
 
 http://blog.spiderlabs.com/
 http://blog.zynamics.com/
