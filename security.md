@@ -30,3 +30,4 @@ Index of contents:
     -> sends your hostname to the AP
         sudo iwconfig eth0 nickname "Fucko the Clown"
 + DHCP Properties
++ Get a VPN at [Mullvad](https://mullvad.net)
